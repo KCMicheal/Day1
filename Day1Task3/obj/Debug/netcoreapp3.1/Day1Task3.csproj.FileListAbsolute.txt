@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\DESKTOP FOLDERS\Genesys\Projects\Day1Task3\bin\Debug\netcoreapp3.1\Day1Task3.exe
+C:\Users\user\Desktop\DESKTOP FOLDERS\Genesys\Projects\Day1Task3\bin\Debug\netcoreapp3.1\Day1Task3.deps.json
+C:\Users\user\Desktop\DESKTOP FOLDERS\Genesys\Projects\Day1Task3\bin\Debug\netcoreapp3.1\Day1Task3.runtimeconfig.json
+C:\Users\user\Desktop\DESKTOP FOLDERS\Genesys\Projects\Day1Task3\bin\Debug\netcoreapp3.1\Day1Task3.runtimeconfig.dev.json
+C:\Users\user\Desktop\DESKTOP FOLDERS\Genesys\Projects\Day1Task3\bin\Debug\netcoreapp3.1\Day1Task3.dll
+C:\Users\user\Desktop\DESKTOP FOLDERS\Genesys\Projects\Day1Task3\bin\Debug\netcoreapp3.1\Day1Task3.pdb
+C:\Users\user\Desktop\DESKTOP FOLDERS\Genesys\Projects\Day1Task3\obj\Debug\netcoreapp3.1\Day1Task3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DESKTOP FOLDERS\Genesys\Projects\Day1Task3\obj\Debug\netcoreapp3.1\Day1Task3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DESKTOP FOLDERS\Genesys\Projects\Day1Task3\obj\Debug\netcoreapp3.1\Day1Task3.AssemblyInfo.cs
+C:\Users\user\Desktop\DESKTOP FOLDERS\Genesys\Projects\Day1Task3\obj\Debug\netcoreapp3.1\Day1Task3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DESKTOP FOLDERS\Genesys\Projects\Day1Task3\obj\Debug\netcoreapp3.1\Day1Task3.dll
+C:\Users\user\Desktop\DESKTOP FOLDERS\Genesys\Projects\Day1Task3\obj\Debug\netcoreapp3.1\Day1Task3.pdb
+C:\Users\user\Desktop\DESKTOP FOLDERS\Genesys\Projects\Day1Task3\obj\Debug\netcoreapp3.1\Day1Task3.genruntimeconfig.cache
